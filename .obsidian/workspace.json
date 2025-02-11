@@ -39,14 +39,14 @@
             "id": "071d1c81bb311c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CNCF/exams/KCNA/Notes.md",
-                "mode": "source",
-                "source": false
+                "aFile": "K8S fundamentals/K8s fundamentals.md",
+                "bFile": "K8S fundamentals/K8s fundamentals.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "icon": "diff",
+              "title": "Diff: K8s fundamentals"
             }
           },
           {
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 200
   },
   "right": {
     "id": "92e4e1a084041973",
@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,23 +219,27 @@
   },
   "active": "071d1c81bb311c3a",
   "lastOpenFiles": [
-    "K8S fundamentals/cloud-controller-manager.md",
+    "K8S fundamentals/K8s fundamentals.md",
+    "K8S fundamentals/kube-apiserver.md",
+    "What to read.md",
+    "K8S fundamentals/Articles & Notes.md",
     "CNCF/exams/KCNA/Notes.md",
+    "K8S fundamentals/container runtime.md",
+    "K8S fundamentals/kube-contoller-manager.md",
+    "K8S fundamentals/kubelet.md",
+    "Fundamentals.md",
+    "K8S fundamentals/cloud-controller-manager.md",
+    "Photos/Pasted image 20250202181951.png",
+    "Photos/Pasted image 20250202161305.png",
     "CNCF/exams/KCNA",
     "CNCF/exams/Untitled.md",
     "K8S fundamentals/Links.md",
     "CNCF/exams",
     "CNCF",
-    "K8S fundamentals/K8s fundamentals.md",
     "K8S fundamentals/addon components.md",
-    "K8S fundamentals/container runtime.md",
     "K8S fundamentals/kube-proxy.md",
-    "What to read.md",
-    "K8S fundamentals/kubelet.md",
-    "K8S fundamentals/kube-contoller-manager.md",
     "K8S fundamentals/etcd.md",
     "K8S fundamentals/kube-scheduler.md",
-    "K8S fundamentals/kube-apiserver.md",
     "K8s fundamentals^kube-contoller-manager.md",
     "K8s.md",
     "[[K8s.md",
@@ -243,7 +247,6 @@
     "().md",
     "K8S fundamentals",
     "Untitled.md",
-    "Fundamentals.md",
     "README.md",
     "Photos",
     "Pasted image 20250128193924.png"

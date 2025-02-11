@@ -2,7 +2,7 @@
 | #kubelet-page-tag<br>^kubelet-page-tag  |
 | --------------------------------------- |
 | [[K8s fundamentals#^kubelet-tag\|back]] |
-Kubelet is an agent component that runs on every node in the cluster. t does not run as a container instead runs as a daemon, managed by systemd.
+Kubelet is an agent component that runs on every node in the cluster. It does not run as a container instead runs as a daemon, managed by systemd.
 
 The kubelet takes a set of PodSpecs that are provided through various mechanisms and ensures that the containers described in those PodSpecs are running and healthy. The kubelet doesn't manage containers which were not created by Kubernetes.
 

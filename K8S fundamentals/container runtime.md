@@ -23,3 +23,14 @@ Illustration of the container lifecycle and hooks:
 
 High-level overview of how container runtime works with kubernetes.
 [![Kubernetes container runtime CRI-O overview](https://devopscube.com/wp-content/uploads/2022/12/image-5-1024x702.png)](https://devopscube.com/wp-content/uploads/2022/12/image-5.png)
+**Definition:**
+The **Container Runtime Interface (CRI)** is a plugin interface in Kubernetes that defines how the Kubernetes kubelet (the node agent) interacts with container runtimes. Essentially, it standardizes communication between Kubernetes and the underlying software that runs containers (such as Docker, containerd, or CRI-O).
+
+
+#### Features:
+1. Encrypted container images
+2. Lazy Pulling
+3. P2P image distribution
+4. Image signing and verifying
+5. Namespaces in K8s
+

@@ -6,6 +6,10 @@
 
 The API server is the front end for the Kubernetes control plane.
 
+Articles:
+1. **working-with-kubernetes-api** / **iximiuz** / [link](https://iximiuz.com/en/series/working-with-kubernetes-api/) / [[Articles & Notes#**working-with-kubernetes-api** / **iximiuz** |notes]]
+2. 
+
 ### etcd
 | #kube-etcd-tag<br>^kube-etcd-tag |
 | -------------------------------- |
@@ -68,6 +72,7 @@ CRI Runtimes:
 - frakti
 - cri-containerd
 - singularity-cri
+* containerD
 
 ### addon components
 
